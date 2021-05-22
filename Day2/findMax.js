@@ -4,7 +4,8 @@ function findMaxNumber(arr) {
     }
 }
 function findMaxNumber2(arr) {
-    for (let i = 0; i < arr.length; i++) {
+    for (let i = 0; i < arr.length - 1; i++) {
+
 
     }
 }
