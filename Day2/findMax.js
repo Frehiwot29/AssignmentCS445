@@ -1,8 +1,10 @@
 function findMaxNumber(arr) {
-    //for
+    for (let i = 0; i < arr.length; i++) {
+
+    }
 }
 function findMaxNumber2(arr) {
-    for(let i=0;i<arr.length;i++){
-        
+    for (let i = 0; i < arr.length; i++) {
+
     }
 }
